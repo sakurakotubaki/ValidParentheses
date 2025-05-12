@@ -31,3 +31,12 @@ flowchart TD
     P3 --> E
     P2 --> E
 ```
+
+## GitHub PRテンプレート
+
+[Developers IO](https://dev.classmethod.jp/articles/pull-request-template/)
+
+```shell
+mkdir .github
+touch .github/PULL_REQUEST_TEMPLATE.md
+```
