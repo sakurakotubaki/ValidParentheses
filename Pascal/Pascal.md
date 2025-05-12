@@ -22,7 +22,7 @@
 ## Python でパスカルの三角形を生成するコード
 パスカルの三角形をプログラムで生成する場合、以下のようなPythonコードが使えます：
 
-```pycon
+```python
 def generate_pascal_triangle(rows):
     triangle = []
     for i in range(rows):
