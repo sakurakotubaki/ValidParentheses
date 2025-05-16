@@ -15,4 +15,4 @@ def generate_pascal_triangle(rows):
 
 
 # 10行のパスカルの三角形を生成
-generate_pascal_triangle(10)
+generate_pascal_triangle(5)
